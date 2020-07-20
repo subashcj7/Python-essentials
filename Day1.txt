@@ -1,0 +1,26 @@
+1)What is python ? What are the ways to install python in pc:-
+Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.[28]
+
+Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented, and functional programming.
+
+Ways to install python-
+->To install Python, follow these steps:
+
+Navigate to the Python downloads page: Python downloads.
+
+Click on the link/button to download Python 3.6.x.
+
+Follow the installation instructions (leave all defaults as-is).
+
+Open your terminal again and type the command cd. Next, type the command python. The Python interpreter should respond with the version number. If you’re on a Windows machine, you will likely have to navigate to the folder where Python is installed (for example, Python 3.6, which is the default) for the python command to function.
+
+
+
+2)What are code environments?Types
+
+->Code environment is where the place we can write the code,edit/modify the code,save the code and doing all other similar stuffs related to coding.
+
+->Types:-
+1)Text editors(Vs code,Brackets,Atom)
+2)Full IDEs(Spyder,geeks for geeks IDEs)
+3)Notebook environments(Jupyter)
